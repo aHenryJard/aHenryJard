@@ -9,7 +9,7 @@ My motivation: Coding for a better World 💖 !
 ### 💼 About my work
 
 - Developer since 2006
-- Jenkins contributor since 2019
+- Jenkins contributor 2019 - 2022
 
 - [LinkedIn](https://www.linkedin.com/in/angelique-henry/)
 
@@ -17,6 +17,7 @@ My motivation: Coding for a better World 💖 !
 
 I am involved in many way to bring more women to code, so I try to participate to projects and I am involved in several associations.
 * Leader and community manager of Duchess France (Women in IT association) 🇫🇷 https://www.duchess-france.fr/
+  * Writing some blog post and interview https://www.duchess-france.fr/author/angelique/
 * Member of MixTeen (Code for kids) 🇫🇷 https://mixteen.org/
 * Organizer of hackthoberfest with Jenkins for Duchess 2021:
   * https://www.jenkins.io/blog/2021/11/12/interview-duchess-hacktoberfest/
@@ -27,4 +28,4 @@ I am involved in many way to bring more women to code, so I try to participate t
 
 ### Some recording with me inside
 
-*2023: Kubernetes Community Days Paris / DevOps panel (🇫🇷) https://youtu.be/aHMyT70ykTk
+* 2023: Kubernetes Community Days Paris / DevOps panel (🇫🇷) https://youtu.be/aHMyT70ykTk
