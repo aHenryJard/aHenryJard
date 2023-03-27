@@ -27,4 +27,4 @@ I am involved in many way to bring more women to code, so I try to participate t
 
 ### Some recording with me inside
 
-*2023: Kubernetes Community DAys Paris / DevOps panel (🇫🇷) https://youtu.be/aHMyT70ykTk
+*2023: Kubernetes Community Days Paris / DevOps panel (🇫🇷) https://youtu.be/aHMyT70ykTk
