@@ -18,6 +18,7 @@ My motivation: Coding for a better World 💖 !
 I am involved in many way to bring more women to code, so I try to participate to projects and I am involved in several associations.
 * Leader and community manager of Duchess France (Women in IT association) 🇫🇷 https://www.duchess-france.fr/
   * Writing some blog post and interview https://www.duchess-france.fr/author/angelique/
+  * Main contributor of Duchess France website https://github.com/DuchessFrance/DuchessFrance.github.io/
 * Member of MixTeen (Code for kids) 🇫🇷 https://mixteen.org/
 * Organizer of hackthoberfest with Jenkins for Duchess 2021:
   * https://www.jenkins.io/blog/2021/11/12/interview-duchess-hacktoberfest/
@@ -29,3 +30,4 @@ I am involved in many way to bring more women to code, so I try to participate t
 ### Some recording with me inside
 
 * 2023: Kubernetes Community Days Paris / DevOps panel (🇫🇷) https://youtu.be/aHMyT70ykTk
+* 2021: Kick off of Hackthoberfest event at Duchess (🇫🇷) https://youtu.be/Cwlv2J9U-qs
