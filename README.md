@@ -28,6 +28,6 @@ I am involved in many way to bring more women to code, so I try to participate t
   * 2022: just started ;-)
 
 ### Some recording with me inside
-
+* 2023: Cloud alpes / Where are women in tech ? Panelist - (🇫🇷) https://youtu.be/pGbmMfcgei0
 * 2023: Kubernetes Community Days Paris / DevOps panel (🇫🇷) https://youtu.be/aHMyT70ykTk
 * 2021: Kick off of Hackthoberfest event at Duchess (🇫🇷) https://youtu.be/Cwlv2J9U-qs
