@@ -16,6 +16,7 @@ My motivation: Coding for a better World 💖 !
 ### 🦄 Bringing more women to Code 🛠️ ! 
 
 I am involved in many way to bring more women to code, so I try to participate to projects and I am involved in several associations.
+* Leader at [Yeeso association "IT future is with Women" ](https://yeeso.fr/), mainly contributing to the "Women role model" squad.
 * Leader and community manager of Duchess France (Women in IT association) 🇫🇷 https://www.duchess-france.fr/
   * Writing some blog post and interview https://www.duchess-france.fr/author/angelique/
   * Main contributor of Duchess France website https://github.com/DuchessFrance/DuchessFrance.github.io/
