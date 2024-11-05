@@ -10,6 +10,7 @@ My motivation: Coding for a better World 💖 !
 
 - Developer since 2006
 - Jenkins contributor 2019 - 2022
+- OpenCTI contributor 2023 - now
 
 - [LinkedIn](https://www.linkedin.com/in/angelique-henry/)
 
